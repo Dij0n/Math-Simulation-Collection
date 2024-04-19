@@ -11,6 +11,6 @@ Above is a collection of the many Math and Physics simulations I made over the c
 
 These projects are fairly basic on their own and were fun 30 minute projects to work on as I learned Processing3
 
-![image](https://media.discordapp.net/attachments/1090763739969617991/1207860648415993886/image.png?ex=65e12ee3&is=65ceb9e3&hm=d3e4c789ed05ae4ce2442574eaff0c889347b4ee81a619564fdefe228d94b605&=&format=webp&quality=lossless&width=554&height=564)
-![image](https://media.discordapp.net/attachments/1090763739969617991/1207860699879964752/image.png?ex=65e12eef&is=65ceb9ef&hm=ff64b49ec6ebf39ed3fa35d168d25fc1419796043573d336d18b1561500e6ec0&=&format=webp&quality=lossless)
-![image](https://media.discordapp.net/attachments/1090763739969617991/1207860770541539449/image.png?ex=65e12f00&is=65ceba00&hm=9d5d849895a4efc1975cb8fca989faf7db82e13beaa9ed121c41518dc1c96908&=&format=webp&quality=lossless)
+![image](https://media.discordapp.net/attachments/1090763739969617991/1207860648415993886/image.png?ex=66343d63&is=6621c863&hm=7ee1813fc3fc232c147ce2da98a629761a2eda8834a17fc85313b88af5828d7d&=&format=webp&quality=lossless&width=546&height=556)
+![image](https://media.discordapp.net/attachments/1090763739969617991/1207860699879964752/image.png?ex=66343d6f&is=6621c86f&hm=b1541edae462035b3c8e0fb86acf583906f2f238f35587640d0ea4fc76bef74a&=&format=webp&quality=lossless)
+![image](https://media.discordapp.net/attachments/1090763739969617991/1207860770541539449/image.png?ex=66343d80&is=6621c880&hm=27beab0208a4f6b3cd458fc898ba970119ea15485fc5b53b1f6f3abac8971112&=&format=webp&quality=lossless)
